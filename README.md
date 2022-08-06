@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanielJDael07
 - 👀 I’m interested in topics about Computers and Information Technology
 - 🌱 I’m currently learning course of Website Development
-- 💞️ I’m looking to collaborate on Avion School
 - 📫 You can reach me at my phone number 09057100379 and email address danieldael7777@gmail.com
 
 <!---
